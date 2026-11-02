@@ -2,7 +2,7 @@
 
 Connect an AI assistant to [Ledgo CRM](https://ledgo.io/) through the Model Context Protocol (MCP). The assistant can find customers, read a lead's history, add leads, plan follow-ups, move deals between stages, log calls and create tasks, always with the permissions of the person whose API key it uses.
 
-Ledgo CRM is a CRM for teams that sell over WhatsApp and the phone: one shared inbox, leads with follow-ups, quotes and invoices. This repository documents its hosted MCP server; there is nothing to install or run.
+Ledgo CRM is an AI-powered CRM for every business: every chat, call and inquiry in one place, followed up until the deal closes. One shared inbox, leads with follow-ups, quotes and invoices. This repository documents its hosted MCP server; there is nothing to install or run.
 
 | | |
 |---|---|
