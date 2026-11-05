@@ -21,13 +21,7 @@ Ledgo CRM is an AI-powered CRM for every business: every chat, call and inquiry 
 
 ## Connect a client
 
-**Claude Code**
-
-```bash
-claude mcp add --transport http ledgo https://ledgo.io/api/mcp --header "Authorization: Bearer agk_your_key"
-```
-
-**Claude Desktop, Cursor, Windsurf and other clients that take a JSON config**
+**Cursor, Windsurf and other clients that take a JSON config**
 
 ```json
 {
