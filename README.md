@@ -17,7 +17,7 @@ Ledgo CRM is an AI-powered CRM for every business: every chat, call and inquiry 
 
 1. Start a workspace at [ledgo.io](https://ledgo.io/) (14-day trial, no card).
 2. Open **Settings → Integrations** and create an API key. New keys are read-only and expire after 90 days unless you choose otherwise; pick **Full access** if the assistant should add leads, plan follow-ups or log calls.
-3. The key acts as you: a sales rep's key sees only that rep's leads, and every change is recorded in the workspace's History under the key's name.
+3. Only workspace admins can create keys. A key acts with the permissions of the admin who created it, and every change is recorded in the workspace's History under the key's name.
 
 ## Connect a client
 
